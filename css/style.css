@@ -61,6 +61,6 @@ canvas {
 }
 
 /* 追加CSS */
-count-particles{
-  display: none !important;
+.count-particles{
+  display: none;
 }
