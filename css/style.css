@@ -62,5 +62,5 @@ canvas {
 
 /* 追加CSS */
 count-particles{
-  display: none;
+  display: none !important;
 }
